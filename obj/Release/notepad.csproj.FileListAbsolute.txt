@@ -1,0 +1,11 @@
+C:\Users\Eetu\notepad\notepad\bin\Release\notepad.exe.config
+C:\Users\Eetu\notepad\notepad\bin\Release\notepad.exe
+C:\Users\Eetu\notepad\notepad\bin\Release\notepad.pdb
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.csproj.AssemblyReference.cache
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.Form1.resources
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.Properties.Resources.resources
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.csproj.GenerateResource.cache
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.exe
+C:\Users\Eetu\notepad\notepad\obj\Release\notepad.pdb
